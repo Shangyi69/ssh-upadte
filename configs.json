@@ -1,25 +1,10 @@
 {
   "categories": [
     {
-      "name": "Direct SSH",
-      "configs": [
-        {
-          "remarks": "Server 1 (no payload, no proxy)",
-          "address": "45.154.26.147",
-          "port": 22,
-          "proxyType": "none",
-          "tlsType": "none",
-          "payload": "",
-          "responseStatus": "200 Connection established",
-          "responsePosition": "pre_request"
-        }
-      ]
-    },
-    {
       "name": "HTTP Proxy",
       "configs": [
         {
-          "remarks": "Server TEST",
+          "remarks": "TRUE+DTAC",
           "address": "d3r7smss70mcpt.cloudfront.net",
           "port": 22,
           "proxyType": "proxy",
