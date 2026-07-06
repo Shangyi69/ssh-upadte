@@ -4,8 +4,8 @@
       "name": "🇹🇭",
       "configs": [
         {
-          "remarks": "TRUE NO PRO V02",
-          "address": "d36lt9hzl2ug3d.cloudfront.net",
+          "remarks": "TRUE NO PRO V01",
+          "address": "d3r7smss70mcpt.cloudfront.net",
           "port": 22,
           "proxyType": "proxy",
           "tlsType": "none",
@@ -16,8 +16,8 @@
           "proxyPort": 80
         },
         {
-          "remarks": "TRUE NO PRO V01",
-          "address": "d3r7smss70mcpt.cloudfront.net",
+          "remarks": "TRUE NO PRO V02",
+          "address": "d36lt9hzl2ug3d.cloudfront.net",
           "port": 22,
           "proxyType": "proxy",
           "tlsType": "none",
